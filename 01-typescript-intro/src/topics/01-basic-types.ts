@@ -1,7 +1,7 @@
 
 //let name = 'Strider';
 const name = 'Strider';
-let hpPoints : number | 'FULL' = 95;
+let hpPoints : number | 'FULL';
 const isAlive: boolean = true;
 
 hpPoints = 'FULL';
